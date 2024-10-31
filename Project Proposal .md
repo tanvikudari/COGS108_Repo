@@ -143,13 +143,15 @@ Specify your team's specific project timeline. An example timeline has been prov
 
 If you think you will need any special resources or training outside what we have covered in COGS 108 to solve your problem, then your proposal should state these clearly. For example, if you have selected a problem that involves implementing multiple neural networks, please state this so we can make sure you know what you’re doing and so we can point you to resources you will need to implement your project. Note that you are not required to use outside methods.
 
-| Meeting Date | Meeting Time | Completed Before Meeting | Discuss at Meeting |
-| ----- | ----- | ----- | ----- |
-| 10/22 | 1 PM | Read & Think about COGS 108 expectations; brainstorm topics/questions | Determine best form of communication; Discuss and decide on final project topic; discuss hypothesis; begin background research |
-| 10/26 | 10 AM | Do background research on topic | Discuss ideal dataset(s) and ethics; draft project proposal |
-| 11/04 | 10 AM | Edit, finalize, and submit proposal; Search for datasets | Discuss Wrangling and possible analytical approaches; Assign group members to lead each specific part |
-| 11/08 | 6 PM | Import & Wrangle Data (Ant Man); EDA (Hulk) | Review/Edit wrangling/EDA; Discuss Analysis Plan |
-| 11/15 | 12 PM | Finalize wrangling/EDA; Begin Analysis (Iron Man; Thor) | Discuss/edit Analysis; Complete project check-in |
-| 11/29 | 12 PM | Complete analysis; Draft results/conclusion/discussion (Wasp) | Discuss/edit full project |
-| 12/15 | Before 11:59 PM | NA | Turn in Final Project & Group Project Surveys |
+### Project Timeline Proposal
+| Meeting Date | Meeting Time      | Completed Before Meeting                                          | Discuss at Meeting                                                   |
+|--------------|-------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------|
+| 10/22        | 1 PM              | Read & think about COGS 108 expectations; brainstorm topics/questions | Determine best form of communication; finalize project topic; discuss hypothesis; begin background research |
+| 10/26        | 11 AM             | Do background research on micro-mobility and weather impacts      | Discuss ideal dataset(s) and ethics; draft project proposal          |
+| 11/04        | 12 PM             | Edit, finalize, and submit proposal; search for potential weather and micro-mobility datasets | Discuss wrangling and potential analytical approaches; assign group roles and set mini checkpoint dates |
+| 11/08        | 11 AM             | Import & wrangle data (e.g., Lime, Spin, Bird rental data); explore weather dataset | Review/edit wrangling/EDA process; refine analytical approach based on initial data exploration |
+| 11/15        | 12 PM             | Complete data wrangling and initial EDA; begin formal analysis (e.g., correlation with weather factors) | Review analysis progress; identify gaps in data/methods; adjust roles as needed |
+| 11/29        | 12 PM             | Complete core analysis; draft results, conclusions, and discussion sections | Review/edit full project; discuss potential biases; prepare for final edits |
+| 12/15        | Before 11:59 PM   | NA                                                                | Submit the final project and complete group project surveys           |
+
 
